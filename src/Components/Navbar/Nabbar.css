@@ -30,7 +30,8 @@
   transition: 0.3s;
   font-weight: bold;
 }
-.navbar .active {
+
+.actives {
   padding-bottom: 2px;
   border-bottom: 2px solid tomato;
 }
